@@ -20,13 +20,14 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="/assets/css/style.css?v={{ site.github.build_revision }}">
+    <link rel="stylesheet" href="/assets/css/custom.css?v={{ site.github.build_revision }}">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner" style="background-image: linear-gradient(rgba(18, 69, 89, 0.45), rgba(9, 30, 66, 0.55)), url('/assets/img/Abu.png'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+    <header class="page-header" role="banner">
       {% if site.logo %}
-        <img class="logo" src="{{ site.logo }}" alt="PRiSM workshop logo" width="200" height="89" style="opacity:0.42;filter:saturate(55%);" />
+        <img class="logo" src="{{ site.logo }}" alt="PRiSM workshop logo" width="200" height="89" />
       {% endif %}
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">
