@@ -1,0 +1,30 @@
+title: Data Augmentation and Curation in Medical Imaging Workshop
+remote_theme: Bilal2453/cayman-docs
+
+# Layout
+show_social: true
+show_excerpts: false
+show_sidebar: true
+
+# Menu
+navigation:
+  name_over_title: false
+
+navigation:
+  name_over_title: false
+  toc_parameter: [all toc module parameters can be optionally passed over here]
+
+# # Menu
+# navigation:
+#   - {file: "index.html", title: "Home", icon: home}
+#   - {file: "people.md", title: "People", icon: address-card}
+#   - {file: "/program.md", title: "Program", icon: address-card}
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-seo-tag
