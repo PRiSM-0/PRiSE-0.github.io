@@ -9,12 +9,12 @@ filename: people
 
 PRiSM distinguishes between the core organizing team and invited advisory and expert contributors.
 
-Photo placeholders are provided below and can be replaced with personal portraits later.
+Image naming convention is now fixed. Replace each corresponding file in `/assets/img/people/` to update portraits automatically.
 
 ## Core Organizing Team
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Sharib Ali" width="88" height="88" />
+  <img src="/assets/img/people/sharib_ali.jpg" alt="Sharib Ali" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Sharib Ali</strong><br/>
     Associate Professor, University of Leeds, UK<br/>
@@ -23,7 +23,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Adrien Bartoli" width="88" height="88" />
+  <img src="/assets/img/people/adrien_bartoli.jpg" alt="Adrien Bartoli" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Adrien Bartoli</strong><br/>
     Professor, Universite Clermont Auvergne and University Hospital, France<br/>
@@ -32,7 +32,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Stamatia Giannarou" width="88" height="88" />
+  <img src="/assets/img/people/stamatia_giannarou.jpg" alt="Stamatia Giannarou" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Stamatia (Matina) Giannarou</strong><br/>
     Reader in Surgical Cancer Technology and Imaging, Imperial College London, UK<br/>
@@ -41,7 +41,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Peng Liu" width="88" height="88" />
+  <img src="/assets/img/people/peng_liu.jpg" alt="Peng Liu" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Peng Liu</strong><br/>
     ECR (PhD student in Interventional Oncology), NCT Dresden, Germany
@@ -49,7 +49,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Xukun Zhang" width="88" height="88" />
+  <img src="/assets/img/people/xukun_zhang.jpg" alt="Xukun Zhang" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Xukun Zhang</strong><br/>
     ECR (Post-doc in Augmented Reality), University of Hong Kong
@@ -59,7 +59,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 ## Clinical Advisory Committee (Invited)
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Shahid Farid" width="88" height="88" />
+  <img src="/assets/img/people/shahid_farid.jpg" alt="Shahid Farid" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Shahid Farid</strong><br/>
     Department of HPB and Transplant Surgery, Saint James Hospital, UK<br/>
@@ -68,7 +68,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Dirk Felix Wilhelm" width="88" height="88" />
+  <img src="/assets/img/people/dirk_wilhelm.jpg" alt="Dirk Felix Wilhelm" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Dirk Felix Wilhelm</strong><br/>
     Department of Surgery, Munich Institute of Robotics and Machine Intelligence, Germany<br/>
@@ -77,7 +77,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Albert El Hajj" width="88" height="88" />
+  <img src="/assets/img/people/albert_el_hajj.jpg" alt="Albert El Hajj" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Dr Albert El Hajj</strong><br/>
     Beirut Medical Center, Beirut, Lebanon<br/>
@@ -88,7 +88,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 ## Industry Advisory Committee (Invited)
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Malcolm Luker" width="88" height="88" />
+  <img src="/assets/img/people/malcolm_luker.jpg" alt="Malcolm Luker" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Malcolm Luker</strong><br/>
     Chief Commercial Officer, HoloCare, Norway<br/>
@@ -97,7 +97,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Boytsova Evelina" width="88" height="88" />
+  <img src="/assets/img/people/boytsova_evelina.jpg" alt="Boytsova Evelina" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Boytsova Evelina</strong><br/>
     Senior Computer Vision Engineer, Varjo, Finland<br/>
@@ -108,7 +108,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 ## Invited Keynote and Panel Experts (Preliminary)
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Stefanie Speidel" width="88" height="88" />
+  <img src="/assets/img/people/stefanie_speidel.jpg" alt="Stefanie Speidel" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Prof. Stefanie Speidel</strong><br/>
     Keynote speaker (confirmed), NCT Dresden, Germany
@@ -116,7 +116,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Pieter De Backer" width="88" height="88" />
+  <img src="/assets/img/people/pieter_de_backer.jpg" alt="Pieter De Backer" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Dr. Pieter De Backer</strong><br/>
     Keynote and panel invite (preliminary), Orsi Academy<br/>
@@ -125,7 +125,7 @@ Photo placeholders are provided below and can be replaced with personal portrait
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="{{ '/assets/img/people/placeholder.svg' | relative_url }}" alt="Photo placeholder for Nassir Navab" width="88" height="88" />
+  <img src="/assets/img/people/nassir_navab.jpg" alt="Nassir Navab" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Prof. Nassir Navab</strong><br/>
     Panel expert (preliminary), Technical University of Munich (TUM)
