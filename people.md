@@ -50,6 +50,15 @@ filename: people
   </div>
 </div>
 
+<div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
+  <img src="/assets/img/people/mikolaj_kowal.jpg" alt="Mikolaj Kowal" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
+  <div>
+    <strong>Mikolaj Kowal</strong><br/>
+    Clinical Research Fellow in General Surgery, University of Leeds, UK<br/>
+    <a href="mailto:M.Kowal@leeds.ac.uk">M.Kowal@leeds.ac.uk</a>
+  </div>
+</div>
+
 ## Clinical Advisory Committee (Invited)
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">

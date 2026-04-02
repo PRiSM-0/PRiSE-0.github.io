@@ -15,6 +15,7 @@ People portrait file naming convention (`/assets/img/people/`):
 - `stamatia_giannarou.jpg`
 - `peng_liu.jpg`
 - `xukun_zhang.jpg`
+- `mikolaj_kowal.jpg`
 - `shahid_farid.jpg`
 - `dirk_wilhelm.jpg`
 - `albert_el_hajj.jpg`
