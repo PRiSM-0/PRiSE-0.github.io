@@ -26,7 +26,9 @@ In addition to mixed-reality topics, we explicitly welcome medical imaging and i
 
 ## Submission Guidance
 
-Submission format and platform details will be announced soon. We currently plan to follow the MICCAI 2026 workshop guidelines, with double-blind review and proceedings arrangements aligned with the MICCAI Satellite Events process.
+All submissions and peer reviews will be handled on **OpenReview** as required by MICCAI 2026 Workshop policy. Please note that CMT or other alternative platforms cannot be used.
+
+We will publish the official OpenReview submission link and detailed configuration instructions as soon as the MICCAI workshop chairs release the organizer materials (expected by April 10, 2026). The review process will follow MICCAI workshop guidelines with double-blind review and proceedings arrangements aligned with the MICCAI Satellite Events process.
 
 ## Important Dates
 
