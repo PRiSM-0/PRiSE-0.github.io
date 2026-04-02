@@ -5,12 +5,6 @@ description: PRiSM 2026 Workshop
 filename: people
 ---
 
-## Team Structure
-
-PRiSM distinguishes between the core organizing team and invited advisory and expert contributors.
-
-Image naming convention is now fixed. Replace each corresponding file in `/assets/img/people/` to update portraits automatically.
-
 ## Core Organizing Team
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
